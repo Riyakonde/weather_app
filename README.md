@@ -9,7 +9,7 @@ This is a simple weather application that provides current weather information f
 * **Humidity**: Provides the current humidity level as a percentage.
 
 ## File Structure
-index.html: The HTML file that contains the structure of the app.
+index.html: The HTML file that contains the structure of the app.                                                                                                             
 style.css: Contains all the styling for the app.
 
 ## Built With
